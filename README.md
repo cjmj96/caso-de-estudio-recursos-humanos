@@ -1,20 +1,12 @@
 # Dashboard de recursos humanos utilizando Tableau - Proyecto de visualización de datos
 
-Este proyecto muestra mi capacidad de visualización y presentación de datos gracias a las capacidades de Tableau para analizar la información de recursos humanos
- de una compañía que tiene sucursales que se encuentran ubicadas en diferentes departamentos de Nicaragua. Se han realizado dos dashboards interactivos, uno
- que nos ofrecerá la vista general de los recursos humanos de la compañía y el otro el detalle sobre empleados específicos. 
+Este proyecto tiene como objetivo analizar la información de recursos humanos de una compañía que tiene sucursales que se encuentran ubicadas en diferentes departamentos de Nicaragua. Para poder facilitar la toma
+de decisiones de la compañía al entender mejor sus RRHH, se realizaron dos dashboards, el primero ofrece una vista general de los RRHH y el otro provee información específica de empleados. Los datos fueron generados
+de manera sintética usando la libreria Faker de Python. El dashboard se encuentra [aquí](https://public.tableau.com/views/DashboardRRHH_17271281026740/RRHHResumen?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link")
 
-**Objetivos del proyecto:**
+<div class='tableauPlaceholder' id='viz1727918442354' style='position: relative'><noscript><a href='#'><img alt='RRHH | Resumen ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Da&#47;DashboardRRHH_17271281026740&#47;RRHHResumen&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='DashboardRRHH_17271281026740&#47;RRHHResumen' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Da&#47;DashboardRRHH_17271281026740&#47;RRHHResumen&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1727918442354');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1400px';vizElement.style.height='827px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1400px';vizElement.style.height='827px';} else { vizElement.style.width='100%';vizElement.style.height='4077px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 
-- Demostrar que se pueden realizar diferentes tipos de dashboards utilizando Tableau permitiendo realizar el conectar, limpiar, preparar los datos para el análisis.
 
-- Diseñar y desarrollar dashboards de una manera interactiva, atractiva visualmente, que nos va a ofrecer insights que nos ayuden a tomar decisiones.
-
-- Crear visualizaciones informando de patrones y tendencias en los datos de recursos humanos.
-
-- Realizar una exploración de los datos a nivel general y de manera individual con objeto de entender perfectamente la fuerza laboral.
-
-- Demostrar que se puede utilizar diferentes tipos de gráficos y filtros en Tableau para mejorar la representación de la información.
 
 **Conjunto de datos:**
 
@@ -92,17 +84,6 @@ Este dashboard permite profundizar en los datos de empleados específicos, inclu
 
 - Filtros interactivos: Permite buscar empleados por nombre, ID o filtrar por distintos criterios.
 
-**Habilidades demostradas:**
-
-- Conexión y preparación de datos en Tableau: Importar, limpiar y transformar datos para el análisis.
-
-- Diseño de dashboards interactivos: Crear dashboards intuitivos y visualmente atractivos con diferentes tipos de gráficos y filtros.
-
-- Visualización de datos: Utilizar diferentes tipos de gráficos (mapas, gráficos de barras, líneas, circulares, etc.) para representar la información de manera efectiva.
-
-- Análisis de datos: Identificar patrones y tendencias en los datos de recursos humanos para obtener resultados accionables.
-
-- Comunicación de datos: Presentar la información de manera clara y concisa a través de visualizaciones informativas. 
 
 **Resultados del proyecto:**
 
@@ -112,12 +93,8 @@ Este proyecto representa un análisis de recursos humanos contundente al desarro
 
 - Se puede añadir más información, como datos de evaluación del desempeño, capacitación recibida, etc.
 
-- Utiliza análisis predictivos para prever la rotación de personal, o úsalo para desarrollar una lista de personas que podrían ser promovidas.
+- Utilizar análisis predictivos para prever la rotación de personal, o úsalo para desarrollar una lista de personas que podrían ser promovidas.
 
-- Integra los paneles de control con otras herramientas utilizadas para un análisis profundo.
-
-El proyecto demuestra mi capacidad para utilizar Tableau en la visualización y análisis de datos complejos de recursos humanos y en la
- obtención de conclusiones útiles que me ayudarán en la toma de decisiones. Creo firmemente que esta habilidad encontrará 
-amplias aplicaciones en una variedad de proyectos relacionados con el análisis de datos y los negocios en diferentes industrias.
+- Integrar los paneles de control con otras herramientas utilizadas para un análisis profundo.
 
 Este proyecto es inspirado por el dashboard creado por [Baraa Khatib Sakini en este video](https://www.youtube.com/watch?v=UcGF09Awm4Y).
