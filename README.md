@@ -29,8 +29,8 @@ de manera sintética usando la libreria Faker de Python.
 ## Estructura de datos y exploraciones iniciales
 
 
-En este caso, hemos utilizado un set de datos que incluye información de 8950 empleados de la compañía. Para este conjunto de
- datos hemos trabajado con 15 columnas que contienen información importante para el análisis de recursos humanos, incluyendo: 
+En este caso, hemos utilizado un conjunto de datos que incluye información de 8,950 empleados de la compañía. Contiene 
+15 columnas con información de los recursos humanos de NicaTex, incluyendo: 
 
 | **Columna**               | **Propósito**                                                                                      |
 |---------------------------|---------------------------------------------------------------------------------------------------|
