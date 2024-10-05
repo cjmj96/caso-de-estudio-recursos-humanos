@@ -29,7 +29,7 @@ de manera sintética usando la libreria Faker de Python.
 ## Estructura de datos y exploraciones iniciales
 
 
-En este caso, hemos utilizado un conjunto de datos que incluye información de 8,950 empleados de la compañía. Contiene 
+NicaTex tiene 8,950 observaciones, cada uno representando un empleado de la compañía, incluyendo activos y terminados desde la creación de la compañía. Contiene 
 15 columnas con información de los recursos humanos de NicaTex, incluyendo: 
 
 | **Columna**               | **Propósito**                                                                                      |
