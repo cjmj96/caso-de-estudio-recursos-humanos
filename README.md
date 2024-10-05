@@ -15,7 +15,7 @@ La compañía tiene cantidades masivas de información detallada e informativa d
  de los clientes. Esto no solo mejora la satisfacción del cliente, sino que también fomenta un ambiente laboral más motivador y productivo,
  lo que se traduce en un mejor rendimiento global de la constructora
 
-Los descubrimientos y recomendaciones son proporcionadas en las siguientes areas claves:
+Los descubrimientos y recomendaciones son proporcionadas en las siguientes áreas claves:
 
 - Análisis general: como el número total de empleados, empleados activos, empleados terminados, etc.
 - Análisis demográfico: ofrece métricas en la composición de la fuerza de trabajo.
@@ -62,9 +62,7 @@ dashboard que ofrece una visión general. El dashboard interactivo completo pued
 
 
 
-
-
-[![Tableau Dashboard](https://public.tableau.com/static/images/Da/DashboardRRHH_17280788056620/RRHHResumen/1.png)](https://public.tableau.com/views/DashboardRRHH_17280788056620/RRHHResumen)
+<iframe src="https://public.tableau.com/views/Dashboard_RRHH_17280788056620/RRHHResumen?:language=en-US&:display_count=n&:origin=viz_share_link" width="1400" height="827"></iframe>
 
 
 #### Análisis general
