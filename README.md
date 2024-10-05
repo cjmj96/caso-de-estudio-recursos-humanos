@@ -64,7 +64,7 @@ dashboard que ofrece una visión general. El dashboard interactivo completo pued
 
 
 
-#### Análisis general
+### Análisis general
 
 - La compañía ha tenido 8,950 empleados, 7950 están activos y 1000 terminados. La mayoría de empleados que están actualmente activos fueron contratados en 2017, representando un 17% (1,506).
 En tiempos de pandemia se contrató menos personal que esta actualmente activo que en otros años. Ellos representan un 5% (422). La mayoría de exempleados tuvieron su terminación en este año,
@@ -78,7 +78,7 @@ representado un 19% (192).
 
 ![vision-general](./vision-general.png)
 
-#### Análisis demográfico
+### Análisis demográfico
 
 - La fuerza laboral está compuesta en un poco más de la mitad (54%) por hombres, conteniendo 4,801 empleados de ese sexo.
 
