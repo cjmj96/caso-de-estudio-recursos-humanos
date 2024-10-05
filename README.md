@@ -60,7 +60,7 @@ concentración de fuerza de trabajo. Un poco más de la mitad de la fuerza de tr
 años. Los empleados masculinos ganan más en promedio en cada nivel de educación. Los salarios aumentan con la edad y experiencia. Abajo se ve el primer
 dashboard que ofrece una visión general. El dashboard interactivo completo puede ser explorado [aquí](https://public.tableau.com/views/Dashboard_RRHH_17280788056620/RRHHResumen?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
-[![Tableau Dashboard](https://public.tableau.com/static/images/Da/Dashboard_RRHH_17280788056620/RRHHResumen/1.png)](https://public.tableau.com/views/DashboardRRHH_17280788056620/RRHHResumen)
+[![Tableau Dashboard](https://public.tableau.com/static/images/Da/Dashboard_RRHH_17280788056620/RRHHResumen/1.png)](https://public.tableau.com/views/Dashboard_RRHH_17280788056620/RRHHResumen)
 
 
 
