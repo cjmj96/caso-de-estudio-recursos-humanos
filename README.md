@@ -4,16 +4,10 @@
 ## Antecedentes y visión general
 
 
-NicaTex, establecida en 2016, esta empresa se especializa en la producción y comercialización de ropa y textiles, desde prendas de vestir hasta productos para el hogar. 
-Tiene fábricas y centros de distribución en varias ciudades de Nicaragua, facilitando el acceso a mercados tanto nacionales como internacionales.
+VíaNica Cargo (VNC), establecida en 2015, se especializa en proporcionar soluciones logísticas integrales, incluyendo la gestión de inventarios, la coordinación del transporte y la optimización de la cadena de suministro. Tiene fábricas y centros de distribución en varias ciudades de Nicaragua, facilitando el acceso a mercados tanto nacionales como internacionales. La empresa es reconocida por su compromiso con la excelencia
+operativa y la satisfacción del cliente.
 
-La compañía tiene cantidades masivas de información detallada e informativa de sus RRHH. Este proyecto analiza detalladamente esa información para optimizar la
- gestión del talento y mejorar la eficiencia operativa. Al analizar datos sobre el desempeño de los empleados, las tasas de rotación
- y las necesidades de capacitación, la dirección puede identificar patrones que ayuden a tomar decisiones informadas sobre la contratación
- y el desarrollo profesional. Además, el uso de análisis predictivo permite anticipar las demandas del mercado y ajustar la estrategia de
- recursos humanos en consecuencia, asegurando que cada sucursal cuente con el personal adecuado para satisfacer las expectativas
- de los clientes. Esto no solo mejora la satisfacción del cliente, sino que también fomenta un ambiente laboral más motivador y productivo,
- lo que se traduce en un mejor rendimiento global de la constructora
+La compañía tiene cantidades masivas de información detallada e informativa de sus RRHH. Este proyecto analiza detalladamente esa información para optimizar la gestión del talento y mejorar la eficiencia operativa. 
 
 Los descubrimientos y recomendaciones son proporcionadas en las siguientes áreas claves:
 
@@ -108,18 +102,19 @@ su departamento específico.
 
 En función a los conocimientos adquiridos sobre la fuerza laboral, a continuación se ofrecen algunas recomendaciones prácticas:
 
-- Análisis de causas de terminación: Dado que el 19% de los empleados han terminado su relación laboral este año, es vital realizar un 
+1. Análisis de causas de terminación: Dado que el 19% de los empleados han terminado su relación laboral este año, es vital realizar un 
 análisis profundo para identificar las causas detrás de estas terminaciones. Esto puede incluir encuestas de salida y entrevistas para 
 entender mejor las razones y abordar problemas recurrentes.
-- Programas de retención: Implementar programas específicos para retener a los empleados contratados en 2017, quienes 
-representan un porcentaje significativo de la fuerza laboral activa. Esto podría incluir incentivos, oportunidades de desarrollo profesional y revisiones salariales.
-- Expansión geográfica: Dado que el 72% de los empleados se concentra en Managua, explorar oportunidades para diversificar la fuerza
- laboral en otras regiones podría ser beneficioso. Esto no solo puede reducir la dependencia de una única ubicación, sino también abrir nuevas oportunidades comerciales.
-Programas de capacitación continua: Con un 61% de empleados con licenciatura, es crucial ofrecer programas de capacitación continua que les permitan avanzar
- en sus carreras y mejorar sus habilidades. Esto puede incluir cursos relacionados con sus áreas específicas o habilidades blandas como liderazgo y trabajo en equipo.
-Segmentación por edad y educación: Dado que más del 60% de los empleados con licenciatura están en el rango de edad de 35 a 44 años, se recomienda analizar
- cómo esta demografía afecta la cultura organizacional y el desempeño. Esto puede ayudar a diseñar políticas que se alineen con las expectativas y necesidades específicas de este grupo.
-- Utilizar análisis predictivos para prever la rotación de personal, o úsalor para desarrollar una lista de personas que podrían ser promovidas.
+
+2. Programas de retención: Implementar programas específicos para retener a los empleados contratados en 2017, quienes 
+representan un porcentaje significativo de la fuerza laboral activa. Esto podría incluir 
+incentivos, oportunidades de desarrollo profesional y revisiones salariales.
+
+3. Expansión geográfica: Dado que el 72% de los empleados se concentra en Managua, explorar oportunidades para diversificar la fuerza laboral en otras regiones podría ser beneficioso. Esto no solo puede reducir la dependencia de una única ubicación, sino también abrir nuevas oportunidades comerciales.
+
+4. Programas de capacitación continua: Con un 61% de empleados con licenciatura, es crucial ofrecer programas de capacitación continua que les permitan avanzar en sus carreras y mejorar sus habilidades. Esto puede incluir cursos relacionados con sus áreas específicas o habilidades blandas como liderazgo y trabajo en equipo.
+
+5. En el futuro se propía hacer uso de análisis predictivos para prever la rotación de personal, o usarlo para desarrollar una lista de personas que podrían ser promovidas.
 
 
 Este proyecto es inspirado por el dashboard creado por [Baraa Khatib Sakini en este video](https://www.youtube.com/watch?v=UcGF09Awm4Y).
