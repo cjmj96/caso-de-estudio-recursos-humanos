@@ -4,19 +4,26 @@
 ## Antecedentes y visión general
 
 
-VíaNica Cargo (VNC), establecida en 2015, se especializa en proporcionar soluciones logísticas integrales, incluyendo la gestión de inventarios, la coordinación del transporte y la optimización de la cadena de suministro. Tiene fábricas y centros de distribución en varias ciudades de Nicaragua, facilitando el acceso a mercados tanto nacionales como internacionales. La empresa es reconocida por su compromiso con la excelencia
-operativa y la satisfacción del cliente.
+ViaNica Cargo (VNC), fundada en 2015, proporciona soluciones logísticas integrales, que incluyen 
+la gestión de inventarios, coordinación del transporte y optimización de la cadena de suministro. Tiene 
+distintas fábricas y centros de distribución a lo largo de varios ciudades de Nicaragua, facilitando 
+el acceso a mercados tanto nacionales como internacionales. VNC es reconocida como una empresa que 
+provee excelencia operativa y satisfacción del cliente.
 
-La compañía tiene cantidades masivas de información detallada e informativa de sus RRHH. Este proyecto analiza detalladamente esa información para optimizar la gestión del talento y mejorar la eficiencia operativa. 
+La empresa ha recopilado cantidades masivas de información de sus RRHH. Este proyecto analiza 
+detalladamente esa información para optimizar la gestión de sus RRHH y mejorar la eficiencia operativa.
 
-Los descubrimientos y recomendaciones son proporcionadas en las siguientes áreas claves:
+Los descubrimientos  y recomendaciones son proporcionadas en las siguientes áreas claves:
 
-- Análisis general: como el número total de empleados, empleados activos, empleados terminados, etc.
-- Análisis demográfico: ofrece métricas en la composición de la fuerza de trabajo.
-- Análisis de ingresos: ofrece métricas relacionadas al salario de la fuerza de trabajo.
 
-Para poder facilitar la toma de decisiones de la compañía al entender mejor sus RRHH, se realizaron dos dashboards, el primero ofrece una vista general de los RRHH y el otro provee información específica de empleados. Los datos fueron generados
-de manera sintética usando la libreria Faker de Python.
+- Análisis general: Provee métricas como el número total de empleados, empleados activos, empleados terminados, etc.
+- Análisis demográfico: Ofrece métricas en la composición de la fuerza de trabajo.
+- Análisis de ingresos: Ofrece métricas relacionadas al salario de la fuerza de trabajo.
+
+Los resultados son presentados a través de dos dashboards que facilita la toma de decisiones de la 
+compañía al entender de una mejor manera sus RRHH. El primer dashboard provee una vista general 
+de los RRHH, mientras que el otro lo hace a nivel específico. Los datos fueron generados de 
+manera sintética usando la librería Faker de Python.
 
 
 
@@ -51,7 +58,7 @@ NicaTex tiene 8,950 observaciones, cada uno representando un empleado de la comp
 NicaTex ha tenido 8,950 empleados, de esos, 7950 son activos, 1000 están terminados.  La mayoría de las contrataciones se dieron en 2017. Mientras
 que las terminaciones en 2024. El departamento de operaciones es donde la mayoría de empleados trabajan. Managua es el departamento con la mayor
 concentración de fuerza de trabajo. Un poco más de la mitad de la fuerza de trabajo es del sexo masculino, se encuentran en un rango de edad entre 35 a 44
-años. Los empleados masculinos ganan más en promedio en cada nivel de educación. Los salarios aumentan con la edad y experiencia. Abajo se ve el primer
+años. Los empleados masculinos ganan más en promedio que sus contrapartes femeninas en cada nivel de educación. Los salarios aumentan con la edad y experiencia. Abajo se ve el primer
 dashboard que ofrece una visión general. El dashboard interactivo completo puede ser explorado [aquí](https://public.tableau.com/views/Dashboard_RRHH_17280788056620/RRHHResumen?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 [![Tableau Dashboard](https://public.tableau.com/static/images/Da/Dashboard_RRHH_17280788056620/RRHHResumen/1.png)](https://public.tableau.com/views/Dashboard_RRHH_17280788056620/RRHHResumen)
@@ -100,21 +107,18 @@ su departamento específico.
 
 ## Recomendaciones y pasos futuros
 
-En función a los conocimientos adquiridos sobre la fuerza laboral, a continuación se ofrecen algunas recomendaciones prácticas:
 
-1. Análisis de causas de terminación: Dado que el 19% de los empleados han terminado su relación laboral este año, es vital realizar un 
-análisis profundo para identificar las causas detrás de estas terminaciones. Esto puede incluir encuestas de salida y entrevistas para 
-entender mejor las razones y abordar problemas recurrentes.
+Estas son las recomendaciones basadas en los resultados obtenidos:
 
-2. Programas de retención: Implementar programas específicos para retener a los empleados contratados en 2017, quienes 
-representan un porcentaje significativo de la fuerza laboral activa. Esto podría incluir 
-incentivos, oportunidades de desarrollo profesional y revisiones salariales.
+- Análisis de causas de terminación: Se debe determinar la causa detrás del hecho que el 19% de los empleados han terminado su relación laboral este año.
 
-3. Expansión geográfica: Dado que el 72% de los empleados se concentra en Managua, explorar oportunidades para diversificar la fuerza laboral en otras regiones podría ser beneficioso. Esto no solo puede reducir la dependencia de una única ubicación, sino también abrir nuevas oportunidades comerciales.
+- Programas de retención: Crear e implementar programas de retención a los empleados contratados en 2017, ya que representan un porcentaje sginificativo de la fuerza laboral activa. Se podría ofrecer incentivos u oportunidades de progreso en posiciones dentro de la empresa.
 
-4. Programas de capacitación continua: Con un 61% de empleados con licenciatura, es crucial ofrecer programas de capacitación continua que les permitan avanzar en sus carreras y mejorar sus habilidades. Esto puede incluir cursos relacionados con sus áreas específicas o habilidades blandas como liderazgo y trabajo en equipo.
+- Expansión geográfica: Dado que el 72% de los empleados se concentra en Managua, explorar oportunidades para diversificar la fuerza laboral en otras regiones podría ser beneficioso. Esto no solo puede reducir la dependencia de una única ubicación, sino también abrir nuevas oportunidades comerciales.
 
-5. En el futuro se propía hacer uso de análisis predictivos para prever la rotación de personal, o usarlo para desarrollar una lista de personas que podrían ser promovidas.
+- Programas de capacitación continua: Con un 61% de empleados con licenciatura, es crucial ofrecer programas de capacitación continua que les permitan avanzar en sus carreras y mejorar sus habilidades. Esto puede incluir cursos relacionados con sus áreas específicas o habilidades blandas como liderazgo y trabajo en equipo.
+
+- En el futuro se propía hacer uso de análisis predictivos para prever la rotación de personal, o usarlo para desarrollar una lista de personas que podrían ser promovidas.
 
 
 Este proyecto es inspirado por el dashboard creado por [Baraa Khatib Sakini en este video](https://www.youtube.com/watch?v=UcGF09Awm4Y).
